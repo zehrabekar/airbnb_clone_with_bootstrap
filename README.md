@@ -19,7 +19,6 @@ Bootstrap components such as Modal, Offcanvas, Carousel, Card, and Dropdown have
 Modal, Offcanvas, and Dropdown components have been specifically included in the project to support my learning process.
 
 ## 🖼️ Project Screenshots
-
 ![Homepage Screenshot](https://user-images.githubusercontent.com/93613471/190927749-8d12c120-df29-4f17-89cc-fca271e5632a.png)  
 <br>
 ![Card Layout Screenshot](https://user-images.githubusercontent.com/93613471/190927462-1d25948a-9aa9-465b-a1e2-8a28c2036bb3.png)  
@@ -28,7 +27,7 @@ Modal, Offcanvas, and Dropdown components have been specifically included in the
 
 ![Dropdown Screenshot](https://user-images.githubusercontent.com/93613471/190927478-539f9615-c3da-43f8-9a01-097b2750e350.png)  
 <br>
-<p>Favorite button on cards - implemented using a modal structure</p>
+<p> Modal structure</p>
 
 ![Modal Screenshot](https://user-images.githubusercontent.com/93613471/190927535-dd6811db-7754-44e0-957f-614797e0a26f.png)  
 <br>
